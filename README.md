@@ -1,6 +1,9 @@
 ## Pokemon Game
-Ray Forman
-February 21, 2024
+###### February 21, 2024
+**Ray Forman**
+
+**Link to play:**
+https://rayforman.itch.io/pokimon-game
 
 ###### Developed on:
 MacOS Sonoma 14.3.1, M1
